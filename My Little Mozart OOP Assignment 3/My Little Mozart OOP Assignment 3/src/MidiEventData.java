@@ -1,4 +1,8 @@
 
+/*
+ * This class contains getters and setters for the various variable types we draw from MIDI files, all of which are type cast to int when read from the file.
+ */
+
 public class MidiEventData {
 	private int startEndTick, velocity, note, channel, noteOnOff ;
 	private int instrument;

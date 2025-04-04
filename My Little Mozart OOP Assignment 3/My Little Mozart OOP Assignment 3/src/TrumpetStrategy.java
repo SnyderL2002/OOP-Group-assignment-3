@@ -3,6 +3,11 @@ import javax.sound.midi.MidiEvent;
 import javax.sound.midi.ShortMessage;
 import javax.sound.midi.Track;
 
+/*
+ * Implements the applyInstrument method from the Instrument strategy interface by overriding it with its own implementation. Is identical to the other instrument
+ * strategies besides its MIDI instrument ID which is 56. Throws the InvalidMidiDataException when passed invalid MIDI data. 
+ */
+
 public class TrumpetStrategy implements InstrumentStrategy {
 	@Override
 	public void applyInstrument(Track track, int channel) throws InvalidMidiDataException {
