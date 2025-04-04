@@ -4,3 +4,8 @@
 /MidiEventFactory.class
 /MidiEventFactoryAbstract.class
 /StandardMidiEventFactory.class
+/StandardMidiEventFactoryAbstract.class
+/LegatoMidiEventFactoryAbstract.class
+/LegatoMidiEventFactory.class
+/StaccatoMidiEventFactoryAbstract.class
+/StaccatoMidiEventFactory.class
