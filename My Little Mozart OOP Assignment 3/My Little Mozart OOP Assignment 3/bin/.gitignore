@@ -9,3 +9,10 @@
 /LegatoMidiEventFactory.class
 /StaccatoMidiEventFactoryAbstract.class
 /StaccatoMidiEventFactory.class
+/PitchStrategy.class
+/HigherPitchStrategy.class
+/LowerPitchStrategy.class
+/InstrumentStrategy.class
+/ElectricBassGuitarStrategy.class
+/TrumpetStrategy.class
+/AcousticGrandPianoStrategy.class
